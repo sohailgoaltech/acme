@@ -1,1 +1,30 @@
 
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "LoveThemes"
+    },
+    {
+      "id": 2,
+      "title": "NatureThemes"
+    },
+    {
+      "id": 3,
+      "title": "SportsThemes"
+    },
+    {
+      "id": 4,
+      "title": "TechThemes"
+    },
+    {
+      "id": 5,
+      "title": "CarThemes"
+    },
+    {
+      "id": 6,
+      "title": "ChristmasThemes"
+    }
+    // Add more categories as needed
+  ]
+}
