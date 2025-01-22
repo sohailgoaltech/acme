@@ -1,0 +1,48 @@
+{
+  "categories": [
+    {
+      "id": 7,
+      "title": "Art"
+    },
+    {
+      "id": 8,
+      "title": "Gaming"
+    },
+    {
+      "id": 9,
+      "title": "Anime"
+    },
+    {
+      "id": 10,
+      "title": "Sci-Fi"
+    },
+    {
+      "id": 11,
+      "title": "Celebrities"
+    },
+    {
+      "id": 1,
+      "title": "Cars"
+    },
+    {
+      "id": 2,
+      "title": "Nature"
+    },
+    {
+      "id": 3,
+      "title": "Love"
+    },
+    {
+      "id": 4,
+      "title": "Sports"
+    },
+    {
+      "id": 5,
+      "title": "Tech"
+    },
+    {
+      "id": 6,
+      "title": "Christmas"
+    }
+  ]
+}
