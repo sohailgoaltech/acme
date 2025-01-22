@@ -1,0 +1,114 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "theme_name": "Gaming PC Computer Colorful",
+      "theme_preview": "https://cdn.pixabay.com/photo/2023/01/23/00/52/gaming-pc-7737628_1280.jpg"
+    },
+    {
+      "id": 2,
+      "theme_name": "AI Generated Controller Gamepad",
+      "theme_preview": "https://cdn.pixabay.com/photo/2024/05/24/16/40/ai-generated-8785422_1280.jpg"
+    },
+    {
+      "id": 3,
+      "theme_name": "Art Woman Gaming",
+      "theme_preview": "https://cdn.pixabay.com/photo/2023/01/23/00/52/art-7737624_1280.jpg"
+    },
+    {
+      "id": 4,
+      "theme_name": "AI Generated Creature Peacock",
+      "theme_preview": "https://cdn.pixabay.com/photo/2023/03/08/03/53/ai-generated-7836741_1280.jpg"
+    },
+    {
+      "id": 5,
+      "theme_name": "Background HD Mortal Kombat",
+      "theme_preview": "https://cdn.pixabay.com/photo/2023/01/19/15/34/background-7729437_1280.jpg"
+    },
+    {
+      "id": 6,
+      "theme_name": "Game Gaming Character",
+      "theme_preview": "https://cdn.pixabay.com/photo/2023/07/24/08/27/game-8146552_1280.png"
+    },
+    {
+      "id": 7,
+      "theme_name": "AI Generated Woman Game",
+      "theme_preview": "https://cdn.pixabay.com/photo/2023/07/24/08/27/ai-generated-8146548_1280.png"
+    },
+    {
+      "id": 8,
+      "theme_name": "Squid Game Television Character",
+      "theme_preview": "https://cdn.pixabay.com/photo/2021/10/15/21/11/squid-game-6713440_1280.jpg"
+    },
+    {
+      "id": 9,
+      "theme_name": "Squid Game TV Show Trend",
+      "theme_preview": "https://cdn.pixabay.com/photo/2021/11/08/20/53/squid-game-6780138_1280.jpg"
+    },
+    {
+      "id": 10,
+      "theme_name": "Game Console Sony",
+      "theme_preview": "https://cdn.pixabay.com/photo/2021/09/07/07/11/game-console-6603120_1280.jpg"
+    },
+    {
+      "id": 11,
+      "theme_name": "PlayStation Console Play Image",
+      "theme_preview": "https://cdn.pixabay.com/photo/2021/10/07/20/46/playstation-6689793_1280.jpg"
+    },
+    {
+      "id": 12,
+      "theme_name": "Games Gaming Consoles Image",
+      "theme_preview": "https://cdn.pixabay.com/photo/2017/06/29/10/28/games-2453777_1280.jpg"
+    },
+    {
+      "id": 13,
+      "theme_name": "Warrior Holding Sword Wallpaper",
+      "theme_preview": "https://c4.wallpaperflare.com/wallpaper/951/583/798/fantasy-art-warrior-dark-souls-iii-dark-souls-wallpaper-preview.jpg"
+    },
+    {
+      "id": 14,
+      "theme_name": "Male Character Holding Sword - The Witcher 2",
+      "theme_preview": "https://c4.wallpaperflare.com/wallpaper/656/37/233/the-witcher-2-assassins-of-kings-werewolves-the-witcher-the-witcher-3-wild-hunt-wallpaper-preview.jpg"
+    },
+    {
+      "id": 15,
+      "theme_name": "The Witcher III",
+      "theme_preview": "https://c4.wallpaperflare.com/wallpaper/691/59/807/fantasy-art-the-witcher-the-witcher-3-wild-hunt-geralt-of-rivia-wallpaper-preview.jpg"
+    },
+    {
+      "id": 16,
+      "theme_name": "Geralt Of Rivia The Witcher",
+      "theme_preview": "https://c4.wallpaperflare.com/wallpaper/296/918/441/1920x1080-px-geralt-of-rivia-the-witcher-the-witcher-3-wild-hunt-animals-frogs-hd-art-wallpaper-preview.jpg"
+    },
+    {
+      "id": 17,
+      "theme_name": "Cirilla Fiona Elen Riannon",
+      "theme_preview": "https://c4.wallpaperflare.com/wallpaper/624/120/972/cirilla-fiona-elen-riannon-face-green-eyes-the-witcher-ciri-hd-wallpaper-preview.jpg"
+    },
+    {
+      "id": 18,
+      "theme_name": "Spider Man 2018 Video Game",
+      "theme_preview": "https://c4.wallpaperflare.com/wallpaper/496/549/315/spider-man-2018-video-game-wallpaper-preview.jpg"
+    },
+    {
+      "id": 19,
+      "theme_name": "Gaming Series PUBG",
+      "theme_preview": "https://c4.wallpaperflare.com/wallpaper/112/262/501/gaming-series-video-games-pubg-players-unknown-battleground-bikes-hd-wallpaper-preview.jpg"
+    },
+    {
+      "id": 20,
+      "theme_name": "Call of Duty Modern Warfare 2",
+      "theme_preview": "https://c4.wallpaperflare.com/wallpaper/840/48/40/call-of-duty-modern-warfare-2-video-games-soldier-war-wallpaper-preview.jpg"
+    },
+    {
+      "id": 21,
+      "theme_name": "Red Dead Redemption 2",
+      "theme_preview": "https://c4.wallpaperflare.com/wallpaper/828/775/677/video-games-cowboys-red-dead-redemption-2-rockstar-games-wallpaper-preview.jpg"
+    },
+    {
+      "id": 22,
+      "theme_name": "Arcane Jinx (League of Legends)",
+      "theme_preview": "https://c4.wallpaperflare.com/wallpaper/625/387/755/arcane-jinx-league-of-legends-league-of-legends-riot-games-4k-hd-wallpaper-preview.jpg"
+    }
+  ]
+}
