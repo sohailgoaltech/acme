@@ -1,0 +1,249 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "theme_name": "TechTerra",
+      "theme_preview": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+      "id": 2,
+      "theme_name": "Stairway, Spiral, Monochrome",
+      "theme_preview": "https://cdn.pixabay.com/photo/2016/01/12/16/47/stairway-1136071_1280.jpg"
+    },
+    {
+      "id": 3,
+      "theme_name": "Brushes, Chalks, Colorful",
+      "theme_preview": "https://cdn.pixabay.com/photo/2017/11/07/18/40/brushes-2927793_1280.jpg"
+    },
+    {
+      "id": 4,
+      "theme_name": "Art, Art materials, Chalk",
+      "theme_preview": "https://cdn.pixabay.com/photo/2016/11/29/12/28/art-1869490_1280.jpg"
+    },
+    {
+      "id": 5,
+      "theme_name": "Colorful, Pencils, Submerged",
+      "theme_preview": "https://cdn.pixabay.com/photo/2017/03/12/13/41/colorful-2137080_1280.jpg"
+    },
+    {
+      "id": 6,
+      "theme_name": "Notebook, Camera, Map",
+      "theme_preview": "https://cdn.pixabay.com/photo/2016/01/09/18/28/notebook-1130742_1280.jpg"
+    },
+    {
+      "id": 7,
+      "theme_name": "Camera, Photographs, Souvenir",
+      "theme_preview": "https://cdn.pixabay.com/photo/2016/01/09/18/27/camera-1130731_1280.jpg"
+    },
+    {
+      "id": 8,
+      "theme_name": "Steel wool, Firespin, Fireball",
+      "theme_preview": "https://cdn.pixabay.com/photo/2014/09/24/09/26/steel-wool-458836_1280.jpg"
+    },
+    {
+      "id": 9,
+      "theme_name": "Sparks, Steel wool, Light painting",
+      "theme_preview": "https://cdn.pixabay.com/photo/2016/08/30/21/31/sparks-1632115_1280.jpg"
+    },
+    {
+      "id": 10,
+      "theme_name": "Sparks, Steel wool, Light painting",
+      "theme_preview": "https://cdn.pixabay.com/photo/2015/06/23/10/48/sparks-818535_1280.jpg"
+    },
+    {
+      "id": 11,
+      "theme_name": "Steel wool, Sparks, Creative use of light",
+      "theme_preview": "https://cdn.pixabay.com/photo/2015/05/12/16/06/steel-wool-764279_1280.jpg"
+    },
+    {
+      "id": 12,
+      "theme_name": "Close up, Art, Portrait",
+      "theme_preview": "https://cdn.pixabay.com/photo/2016/10/07/08/56/close-up-1721060_1280.jpg"
+    },
+    {
+      "id": 13,
+      "theme_name": "Watercolor, Portrait, Painting",
+      "theme_preview": "https://cdn.pixabay.com/photo/2020/04/16/09/57/watercolor-5049980_1280.jpg"
+    },
+    {
+      "id": 14,
+      "theme_name": "Art, Painting, Watercolor",
+      "theme_preview": "https://cdn.pixabay.com/photo/2018/02/14/14/53/art-3153106_1280.jpg"
+    },
+    {
+      "id": 15,
+      "theme_name": "Flowers, Flower background, Bouquet",
+      "theme_preview": "https://cdn.pixabay.com/photo/2017/08/08/14/05/flowers-2611474_1280.jpg"
+    },
+    {
+      "id": 16,
+      "theme_name": "Umbrellas, Colorful, Hang",
+      "theme_preview": "https://cdn.pixabay.com/photo/2016/03/26/23/00/umbrellas-1281751_1280.jpg"
+    },
+    {
+      "id": 17,
+      "theme_name": "Rain, Umbrella, Pavement",
+      "theme_preview": "https://cdn.pixabay.com/photo/2019/08/21/19/26/rain-4421893_1280.jpg"
+    },
+    {
+      "id": 18,
+      "theme_name": "Magical, Woman, Fantasy",
+      "theme_preview": "https://cdn.pixabay.com/photo/2021/02/24/09/51/magical-6046020_1280.jpg"
+    },
+    {
+      "id": 19,
+      "theme_name": "Woman, Beauty, Light painting",
+      "theme_preview": "https://cdn.pixabay.com/photo/2021/02/24/09/51/woman-6046019_1280.jpg"
+    },
+    {
+      "id": 20,
+      "theme_name": "Woman, Horse, Magical",
+      "theme_preview": "https://cdn.pixabay.com/photo/2018/07/21/03/55/woman-3551832_1280.jpg"
+    },
+    {
+      "id": 21,
+      "theme_name": "Lights, Fireflies, Glow",
+      "theme_preview": "https://cdn.pixabay.com/photo/2020/06/17/18/03/lights-5310589_1280.jpg"
+    },
+    {
+      "id": 22,
+      "theme_name": "Lights, Lamps, Lanterns",
+      "theme_preview": "https://cdn.pixabay.com/photo/2015/12/11/13/59/lights-1088141_1280.jpg"
+    },
+    {
+      "id": 23,
+      "theme_name": "Buildings, Lantern, Lamp",
+      "theme_preview": "https://cdn.pixabay.com/photo/2023/08/27/14/34/buildings-8217275_1280.jpg"
+    },
+    {
+      "id": 24,
+      "theme_name": "Light, Glow, Leaf",
+      "theme_preview": "https://cdn.pixabay.com/photo/2016/11/23/13/56/light-1853025_1280.jpg"
+    },
+    {
+      "id": 25,
+      "theme_name": "Orbs, Orbeez, Glow",
+      "theme_preview": "https://cdn.pixabay.com/photo/2020/03/25/14/57/orbs-4967554_1280.jpg"
+    },
+    {
+      "id": 26,
+      "theme_name": "Orb, Fur, Christmas tree decoration",
+      "theme_preview": "https://cdn.pixabay.com/photo/2021/12/03/20/28/orb-6843761_1280.jpg"
+    },
+    {
+      "id": 27,
+      "theme_name": "Bokeh, Texture, Lights",
+      "theme_preview": "https://cdn.pixabay.com/photo/2014/04/04/21/56/bokeh-313993_1280.jpg"
+    },
+    {
+      "id": 28,
+      "theme_name": "Sunset, Light and shadow, Tidal",
+      "theme_preview": "https://cdn.pixabay.com/photo/2023/04/05/04/57/sunset-7900627_1280.jpg"
+    },
+    {
+      "id": 29,
+      "theme_name": "Meadow, Plant, Field",
+      "theme_preview": "https://cdn.pixabay.com/photo/2020/07/24/17/24/meadow-5434588_1280.jpg"
+    },
+    {
+      "id": 30,
+      "theme_name": "Girl, Firefly, Moon",
+      "theme_preview": "https://cdn.pixabay.com/photo/2021/12/20/18/27/girl-6883721_1280.jpg"
+    },
+    {
+      "id": 31,
+      "theme_name": "Rabbits, Nature, Butterflies",
+      "theme_preview": "https://cdn.pixabay.com/photo/2020/07/17/14/15/rabbits-5414243_1280.jpg"
+    },
+    {
+      "id": 32,
+      "theme_name": "Light bulb, Incandescent, Smoke",
+      "theme_preview": "https://cdn.pixabay.com/photo/2014/10/26/14/36/light-bulb-503881_1280.jpg"
+    },
+    {
+      "id": 33,
+      "theme_name": "Lights, Decoration, Illuminated",
+      "theme_preview": "https://cdn.pixabay.com/photo/2016/11/29/05/01/lights-1867437_1280.jpg"
+    },
+    {
+      "id": 34,
+      "theme_name": "Lamps, Lighting, Illuminated",
+      "theme_preview": "https://cdn.pixabay.com/photo/2019/07/12/18/22/lamps-4333322_1280.jpg"
+    },
+    {
+      "id": 35,
+      "theme_name": "A book, Magic, Stories",
+      "theme_preview": "https://cdn.pixabay.com/photo/2019/04/17/10/46/book-4133883_1280.jpg"
+    },
+    {
+      "id": 36,
+      "theme_name": "Fireflies, Night, Lamp",
+      "theme_preview": "https://cdn.pixabay.com/photo/2021/09/17/17/20/fireflies-6633336_1280.jpg"
+    },
+    {
+      "id": 37,
+      "theme_name": "Church, Glass, Chapel",
+      "theme_preview": "https://cdn.pixabay.com/photo/2022/08/10/07/25/church-7376515_1280.jpg"
+    },
+    {
+      "id": 38,
+      "theme_name": "Abbey, Church, Interiors",
+      "theme_preview": "https://cdn.pixabay.com/photo/2016/01/25/11/25/abbey-1160492_1280.jpg"
+    },
+    {
+      "id": 39,
+      "theme_name": "Dom, Church, Cathedral",
+      "theme_preview": "https://cdn.pixabay.com/photo/2016/10/01/14/12/dom-1707634_1280.jpg"
+    },
+    {
+      "id": 40,
+      "theme_name": "Mosaic, Windows wallpaper, 4k wallpaper",
+      "theme_preview": "https://cdn.pixabay.com/photo/2018/05/12/19/20/mosaic-3394375_1280.jpg"
+    },
+    {
+      "id": 41,
+      "theme_name": "Flower, Ink, Mac wallpaper",
+      "theme_preview": "https://cdn.pixabay.com/photo/2019/03/21/05/27/flower-4070280_1280.jpg"
+    },
+    {
+      "id": 42,
+      "theme_name": "Ink, Wallpaper hd, Hd wallpaper",
+      "theme_preview": "https://cdn.pixabay.com/photo/2021/10/02/07/40/ink-6674441_1280.jpg"
+    },
+    {
+      "id": 43,
+      "theme_name": "Abstract, Ink, Full hd wallpaper",
+      "theme_preview": "https://cdn.pixabay.com/photo/2018/12/10/09/15/abstract-3866485_1280.jpg"
+    },
+    {
+      "id": 44,
+      "theme_name": "Ink, Full hd wallpaper, Smoke",
+      "theme_preview": "https://cdn.pixabay.com/photo/2021/11/23/15/11/ink-6818935_1280.jpg"
+    },
+    {
+      "id": 45,
+      "theme_name": "Mountain, Colors, Paint",
+      "theme_preview": "https://cdn.pixabay.com/photo/2021/08/11/16/06/mountain-6538890_1280.jpg"
+    },
+    {
+      "id": 46,
+      "theme_name": "Paint tubes, Paint, Caps",
+      "theme_preview": "https://cdn.pixabay.com/photo/2017/09/11/21/08/paint-tubes-2740463_1280.jpg"
+    },
+    {
+      "id": 47,
+      "theme_name": "Colorful Abstract Artwork",
+      "theme_preview": "https://cdn.pixabay.com/photo/2018/03/24/08/56/colorful-3256055_1280.jpg"
+    },
+    {
+      "id": 48,
+      "theme_name": "Eye Abstract Colour",
+      "theme_preview": "https://cdn.pixabay.com/photo/2024/05/01/00/46/eye-8731200_1280.png"
+    },
+    {
+      "id": 49,
+      "theme_name": "Background Abstract Blue",
+      "theme_preview": "https://cdn.pixabay.com/photo/2017/06/14/01/43/background-2400765_1280.jpg"
+    }
+  ]
+}
