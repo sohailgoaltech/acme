@@ -9,6 +9,11 @@
       "id": 2,
       "title": "Sports",
       "url_link": "https://raw.githubusercontent.com/sohailgoaltech/acme/refs/heads/main/charging_animation_app/SportsTheme.json"
+    } ,
+    {
+      "id": 3,
+      "title": "Tech",
+      "url_link": "https://raw.githubusercontent.com/sohailgoaltech/acme/refs/heads/main/charging_animation_app/TechTheme.json"
     }
   ]
 }
